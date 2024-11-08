@@ -13,7 +13,6 @@ Welcome to the RAG (Retrieval-Augmented Generation) project! This cutting-edge s
 3. [Usage](#usage)
 4. [Architecture](#architecture)
 5. [Contributing](#contributing)
-6. [License](#license)
 
 ## ✨ Features
 
@@ -61,11 +60,9 @@ Our RAG system consists of three main components:
 
 We welcome contributions! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to submit pull requests, report issues, or request features.
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ---
 
-Built with ❤️ by the RAG Team
+Built with ❤️ by the imdavidrock.
 
